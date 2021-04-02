@@ -1,0 +1,10 @@
+var 
+    integer y;
+    integer x;
+begin
+    input(x)
+    y = x;
+    output(y)
+    output(x)
+    output(x+y)
+end
